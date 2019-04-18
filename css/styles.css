@@ -1,0 +1,28 @@
+body{
+    background: lightblue;
+}
+
+.boxChild{
+    
+
+    margin: 0 auto;
+    border: 1px solid black;
+    background: lightgrey;
+}
+.mainFlex{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    /* margin-left: 25%; */
+}
+.decentSpace{
+    margin-top: 0.8rem;
+}
+.aligningCenter{
+    margin: 0 auto;
+}
+
+.centerSelf{
+    align-self: center;
+}
